@@ -17,3 +17,5 @@ grep -q "wheel" /app/sample/car.txt
 
 echo "✅ All required components exist in car.txt!"
 
+tail -f /dev/null
+
